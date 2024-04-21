@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saba-molania
-- 👀 I’m interested in programming, learning new things, exercising, reading books & playing guitar
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in programming, learning new things, exercising, reading books & playing piano
+- 🌱 I’m currently learning Web Designing
 
 <!---
 saba-molania/saba-molania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
